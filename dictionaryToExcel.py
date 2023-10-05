@@ -1,0 +1,2 @@
+from textToDict import data
+
